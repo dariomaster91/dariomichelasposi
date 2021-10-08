@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3fe9622c-bf0b-45db-a26d-c75a97f0dbf3" name="ftp.dariomichelasposi.it" url="https://dariomichelasposi.it">
+        <fileTransfer rootFolder="/www.dariomichelasposi.it/" accessType="FTPS" host="ftp.dariomichelasposi.it" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
