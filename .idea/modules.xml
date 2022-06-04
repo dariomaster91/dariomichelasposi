@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nozze-dario-michela-html.iml" filepath="$PROJECT_DIR$/.idea/nozze-dario-michela-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Everline-HTML-Template/.idea/Everline-HTML-Template.iml" filepath="$PROJECT_DIR$/../Everline-HTML-Template/.idea/Everline-HTML-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dariomichelasposi.iml" filepath="$PROJECT_DIR$/.idea/dariomichelasposi.iml" />
     </modules>
   </component>
 </project>
