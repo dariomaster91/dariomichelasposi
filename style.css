@@ -1114,7 +1114,7 @@ body .vc_row{
 .everline_title:after{
     width: 70px;
     height: 2px;
-    background: #d65679;
+    background: #46babd;
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -1214,7 +1214,7 @@ body.theme-box .everline_boxed .tz-header5 .wrapbox{
     margin: auto;
 }
 body.theme-box .everline_boxed header.headerAnimate .wrapbox{
-    background: rgba(214, 86, 121, 0.8) ;
+    background: rgba(70, 186, 189, 0.8) ;
     max-width: 1300px;
     width: 100%;
     margin: auto;
@@ -1306,7 +1306,7 @@ header.tzadminbar{
 .tz-header2{
     position: relative;
     z-index: 999;
-    border-top: 3px solid #d65679;
+    border-top: 3px solid #46babd;
     background: #fff;
 }
 body header.tz-header2{
@@ -1345,7 +1345,7 @@ body header.tz-header2{
     width: 200px;
     text-align: center;
     height: 120px;
-    background: #d65679;
+    background: #46babd;
 }
 .tz-header2 .tz-search{
     background: none;
@@ -1434,7 +1434,7 @@ body header.tz-header3{
 }
 .tznav-3{
     background: #fff;
-    border-bottom: 4px solid #d65679;
+    border-bottom: 4px solid #46babd;
 }
 .tz-header3.headerAnimate3 .tz-menu li a{
     padding: 15px 35px;
@@ -1484,7 +1484,7 @@ body header.tz-header4{
     padding: 15px 0 14px;
     margin: 0;
     text-align: center;
-    background: #d65679;
+    background: #46babd;
 }
 /*-----------Header 5---------*/
 .tz-header5{
@@ -1557,13 +1557,13 @@ header.headerAnimate2 .container{
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
     -ms-border-radius: 50%;
-    background: #d65679;
+    background: #46babd;
     vertical-align: middle;
     text-align: center;
     padding-top: 10px;
 }
 header.headerAnimate{
-    background: rgba(214,86,121,0.8);
+    background: rgba(70,186,189,0.8);
     padding: 0;
     top: 0;
 }
@@ -1594,7 +1594,7 @@ header.headerAnimate{
 
 /*-----header default----------*/
 .tz-header-page{
-    background: #d65679;
+    background: #46babd;
     padding: 24px 0 46px;
 }
 .tz-header-page .tz-menu li a {
@@ -1651,8 +1651,8 @@ header.headerAnimate{
     opacity: 0;
 }
 .tzform-search #searchsubmit{
-    background: #d65679;
-    border: 1px solid #d65679;
+    background: #46babd;
+    border: 1px solid #46babd;
     padding: 10px 30px;
     color: #fff;
     height: 58px;
@@ -1723,7 +1723,7 @@ header.headerAnimate{
     position: absolute;
     width: 80px;
     height: 1px;
-    background: #d65679;
+    background: #46babd;
     content: '';
     left: 0;
     top: 100%;
@@ -1782,7 +1782,7 @@ header.headerAnimate{
     -ms-transition: none;
 }
 .tz-header ul li .non_mega_menu  li a:hover{
-    color: #d65679;
+    color: #46babd;
 }
 
 .tz-header ul li .non_mega_menu li a:after{
@@ -1887,7 +1887,7 @@ body header ul.nav-collapse .themeple_custom_menu_mega_menu ul li ul li a {
 
 }
 body header ul.nav-collapse .themeple_custom_menu_mega_menu ul li ul li a:hover{
-    color: #d65679;
+    color: #46babd;
 }
 nav .themeple_custom_menu_mega_menu ul > li:first-child{
     border-left: 0;
@@ -2037,7 +2037,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
  */
 .tzcountdown{
     padding: 60px 0 65px;
-    background: #d65679;
+    background: #46babd;
 }
 .tzcountdown-left{
     padding-top: 15px;
@@ -2066,7 +2066,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 .tzcountdownitem{
     width: 125px;
     height: 125px;
-    border: 1px solid #eaa8ba;
+    border: 1px solid #46caba;
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -2082,8 +2082,8 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
     -o-transition: all 0.3s linear 0s;
 }
 .tzcountdownitem:hover{
-    background: #e289a1;
-    border-color: #e289a1;
+    background: #46caba;
+    border-color: #46caba;
     cursor: pointer;
 }
 .tzcountdownitem span{
@@ -2105,7 +2105,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 /*------Count Down style 2----*/
 .tzcountdown2{
     padding: 32px 0 82px;
-    background: #d65679;
+    background: #46babd;
 }
 .tzcountdown2 .countdown{
     padding-top: 35px;
@@ -2154,7 +2154,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 /*------Count Down style 3----*/
 .tzcountdown3{
     position: relative;
-    background: #d65679;
+    background: #46babd;
 }
 .tzcountdown3:after{
     clear: both;
@@ -2168,7 +2168,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
     background-repeat: no-repeat;
     background-position: fixed;
     overflow: hidden;
-    background-color: #d65679;
+    background-color: #46babd;
     text-align: center;
     padding: 86px 0 80px;
 }
@@ -2201,7 +2201,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
     text-transform: uppercase;
 }
 .tzcountdown-ds2 span {
-    color: #d65679;
+    color: #46babd;
     font-size: 30px;
     line-height: 36px;
     margin: 0;
@@ -2238,7 +2238,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 }
 /*------Count Down style 4----*/
 .tzcountdown4 .countdown{
-    background: #d65679;
+    background: #46babd;
     padding: 39px 60px;
     margin-bottom: 20px;
 }
@@ -2300,7 +2300,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 .title_ourstory:after{
     width: 70px;
     height: 2px;
-    background: #d65679;
+    background: #46babd;
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -2362,7 +2362,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
 .ourstory_infomation p{
     font-size: 12px;
     line-height: 24px;
-    color: #d65679;
+    color: #46babd;
     padding: 0;
     margin: 0;
     letter-spacing: 0.4px;
@@ -2436,7 +2436,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
     color: #212121;
 }
 .tzintroduct h3:after{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -2476,7 +2476,7 @@ nav .themeple_custom_menu_mega_menu.themeple_mega5 ul li ul li{
  * -----------------------------------------------------------------------------
  */
 .form7-wrap{
-    background: #d65679;
+    background: #46babd;
     position: relative;
     padding: 42px 50px 45px;
 }
@@ -2632,7 +2632,7 @@ div.wpcf7 .form7submit  img.ajax-loader {
 
 /*--------form style 2------*/
 .form7-style2{
-    background: #d65679;
+    background: #46babd;
     padding: 52px 0 53px;
 }
 .form7-style2 label{
@@ -2736,7 +2736,7 @@ div.wpcf7-validation-errors{
 }
 /*--------form style 3------*/
 .form7-style3{
-    background: #d65679;
+    background: #46babd;
     position: relative;
     padding: 40px 25px 73px 55px;
 }
@@ -2956,7 +2956,7 @@ div.wpcf7-validation-errors{
     z-index: 6;
 }
 .tzautoplay{
-    background: #d65679;
+    background: #46babd;
     height: 85px;
     width: 85px;
     border: 0;
@@ -2979,7 +2979,7 @@ div.wpcf7-validation-errors{
     color: #fff;
 }
 .tzpause{
-    background: #d65679;
+    background: #46babd;
     height: 85px;
     width: 85px;
     border: 0;
@@ -3095,7 +3095,7 @@ div.wpcf7-validation-errors{
 }
 
 .elementblog-title:after{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -3181,7 +3181,7 @@ div.wpcf7-validation-errors{
 
 }
 .playlist_title:after{
-    background: #d65679;
+    background: #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -3231,7 +3231,7 @@ div.wpcf7-validation-errors{
     float: left;
 }
 .jp-play-bar{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     height: 2px;
 }
 .jp-controls button{
@@ -3244,7 +3244,7 @@ div.wpcf7-validation-errors{
     font-size: 15px;
 }
 .jp-controls button:hover  i{
-    color: #d65679;;
+    color: #46babd;;
 }
 .jp-playlist ul {
     list-style: none;
@@ -3277,8 +3277,8 @@ div.wpcf7-validation-errors{
 }
 .jp-playlist ul li.jp-playlist-current:before,
 .jp-playlist ul li:hover:before{
-    border-right: 2px solid #d65679;
-    color: #d65679;
+    border-right: 2px solid #46babd;
+    color: #46babd;
 }
 .jp-playlist ul li:hover{
     cursor: pointer;
@@ -3318,10 +3318,10 @@ div.wpcf7-validation-errors{
     text-align: center;
 }
 .testimonials2 .icon_testimonials{
-    color: #d65679;
+    color: #46babd;
 }
 .testimonials2 .author_testimonials{
-    color: #d65679;
+    color: #46babd;
 }
 .testimonials2 .title_testimonials{
     color: #444444;
@@ -3440,7 +3440,7 @@ div.wpcf7-validation-errors{
 }
 .tzimg-content strong{
     display: block;
-    color: #d65679;
+    color: #46babd;
     font-size: 30px;
     line-height: 36px;
     letter-spacing: 5px;
@@ -3471,7 +3471,7 @@ div.wpcf7-validation-errors{
 .tzshop_title h1:after{
     width: 70px;
     height: 2px;
-    background: #d65679;
+    background: #46babd;
     content: '';
     position: absolute;
     left: 0;
@@ -3706,7 +3706,7 @@ div.wpcf7-validation-errors{
 }
 .woocommerce .tzproduct-item:hover .tzmeta-item a:hover,
 .woocommerce .tzproduct-item:hover .tzmeta-item span:hover{
-    background: #d65679;
+    background: #46babd;
     color: #fff !important;
 }
 .woocommerce .tzproduct-item:hover .tzmeta-item .tzquick-view,
@@ -3916,7 +3916,7 @@ body #carousel li {
 .tz-entry-summary  .in-stock{
     font-size: 20px;
     line-height: 24px;
-    color: #d65679 !important;
+    color: #46babd !important;
     padding: 0;
     margin: 0;
     text-decoration: none;
@@ -4022,7 +4022,7 @@ body #carousel li {
     height: 40px;
 }
 .woocommerce div.product .tz-entry-summary form.cart .button{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     border: 0 none;
     border-radius: 0;
     -moz-border-radius: 0;
@@ -4060,7 +4060,7 @@ body #carousel li {
     color: #333;
 }
 .woocommerce div.product .tz-entry-summary p.cart .single_add_to_cart_button{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     border: 0 none;
     border-radius: 0;
     -moz-border-radius: 0;
@@ -4141,7 +4141,7 @@ body #carousel li {
 }
 
 .woocommerce .woocommerce-message .wc-forward:hover{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
 }
 
 table.variations{
@@ -4507,7 +4507,7 @@ table.variations{
     -o-transition: all 0.3s ease 0s;
 }
 .woocommerce #review_form #respond input#submit:hover{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
 }
 .woocommerce p.stars a, .woocommerce-page p.stars a{
     color: #444;
@@ -4775,7 +4775,7 @@ table.variations{
 .woocommerce #content table.cart a.remove:hover,
 .woocommerce-page table.cart a.remove:hover,
 .woocommerce-page #content table.cart a.remove:hover {
-    color: #d65679;
+    color: #46babd;
     background: none;
 }
 .woocommerce table.cart img,
@@ -4862,7 +4862,7 @@ table.variations{
 
 .woocommerce-cart .woocommerce .shop_table .button,
 .woocommerce .return-to-shop .button{
-    background: #d65679;
+    background: #46babd;
     padding: 0 35px;
     margin: 0 0 0 5px;
     font-weight: 400;
@@ -4898,10 +4898,10 @@ table.variations{
     margin: 0;
 }
 .woocommerce-cart .woocommerce .shop_table .checkout-button:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce-cart .woocommerce .shop_table .button:hover{
-    background: #d65679;
+    background: #46babd;
     box-shadow: none;
     -webkit-box-shadow: none;
     text-shadow: none;
@@ -4944,7 +4944,7 @@ table.variations{
     left: 50%;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
     margin-left: -20px;
 }
 .woocommerce .cart-collaterals .cart_totals tr td,
@@ -4980,7 +4980,7 @@ table.variations{
     border-right: 0 none;
 }
 .order-total strong span{
-    color: #d65679;
+    color: #46babd;
     font-weight: 400;
 }
 
@@ -5031,7 +5031,7 @@ table.variations{
 .woocommerce .cart-collaterals .shipping_calculator .button,
 .woocommerce-page .cart-collaterals .shipping_calculator .button,
 .woocommerce-cart .wc-proceed-to-checkout a.checkout-button{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     border: 0 none;
     font-size: 13px;
     line-height: 16px;
@@ -5129,7 +5129,7 @@ table.variations{
 }
 .woocommerce form.checkout_coupon p input.button:hover,
 .woocommerce-page form.checkout_coupon p input.hover{
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce form.checkout_coupon .form-row-first{
     width: 52%;
@@ -5139,17 +5139,17 @@ table.variations{
 }
 .woocommerce-checkout .woocommerce .woocommerce-info,
 .woocommerce-checkout .woocommerce-info {
-    border-top: 3px solid #d65679;
+    border-top: 3px solid #46babd;
 }
 .woocommerce-checkout  .woocommerce-info:before,
 .woocommerce-checkout  .woocommerce-info:before{
-    background-color: #d65679;
+    background-color: #46babd;
 }
 .woocommerce-checkout  .woocommerce-info a{
-    color: #d65679;
+    color: #46babd;
 }
 a{
-    color: #d65679;
+    color: #46babd;
 }
 
 .woocommerce-billing-fields h3,
@@ -5175,7 +5175,7 @@ a{
     left: 50%;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
     margin-left: -20px;
 }
 #order_review_heading{
@@ -5206,7 +5206,7 @@ a{
     left: 50%;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
     margin-left: -20px;
 }
 .checkout{
@@ -5487,7 +5487,7 @@ a{
 }
 .woocommerce #payment #place_order:hover,
 .woocommerce-page #payment #place_order:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce-page table.order_details tr:first-child td{
     border-top: 1px solid #eee;
@@ -5513,7 +5513,7 @@ a{
     left: 50%;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
     margin-left: -20px;
 }
 
@@ -5542,7 +5542,7 @@ a{
     left: 0;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce-account table.shop_table th{
     padding-left: 20px;
@@ -5553,7 +5553,7 @@ a{
 }
 .woocommerce table.my_account_orders .order-actions .button:hover,
 .woocommerce-page table.my_account_orders .order-actions .button:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce table.my_account_orders .order-actions .button,
 .woocommerce-page table.my_account_orders .order-actions .button{
@@ -5621,7 +5621,7 @@ a{
 }
 .woocommerce-account .woocommerce input.button:hover,
 .woocommerce-account .woocommerce-page input.button:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .woocommerce-account .woocommerce input.button,
 .woocommerce-account .woocommerce-page input.button{
@@ -5999,7 +5999,7 @@ aside .themeple_custom_menu_mega_menu ul li a{
     left: 0;
     width: 40px;
     height: 3px;
-    background: #d65679;
+    background: #46babd;
     margin-left: auto;
 }
 .price_slider_wrapper{
@@ -6020,7 +6020,7 @@ aside .themeple_custom_menu_mega_menu ul li a{
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
 .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     border: 0 none;
     border-radius: 0;
     -moz-border-radius: 0;
@@ -6230,7 +6230,7 @@ body .tzsidebar-blog{
 .tzdefault_title h1:after{
     width: 70px;
     height: 2px;
-    background: #d65679;
+    background: #46babd;
     content: '';
     position: absolute;
     left: 0;
@@ -6313,7 +6313,7 @@ body .tzsidebar-blog{
 .datepicker table tr td.active.active ,
 .datepicker table tr td.day:hover,
 .datepicker table tr td.day.focused{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     color: #fff;
 }
 .datepicker-dropdown.datepicker-orient-bottom:before {
@@ -6332,7 +6332,7 @@ body .tzsidebar-blog{
     padding-left: 0;
 }
 #tribe-bar-form .tribe-bar-submit input[type="submit"] {
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     font-family: "Varela",sans-serif;
     font-size: 12px;
     font-weight: 400;
@@ -6391,7 +6391,7 @@ h2.tribe-events-page-title {
     text-transform: uppercase;
 }
 h2.tribe-events-page-title:after {
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -6452,7 +6452,7 @@ h2.tribe-events-page-title:after {
 .tribe-events-button:hover,
 .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"],
 .tribe-events-calendar td.tribe-events-present div[id*="tribe-events-daynum-"] > a{
-    background: #d65679;
+    background: #46babd;
 }
 .tribe-events-calendar div[id*="tribe-events-event-"] h3.tribe-events-month-event-title a {
     color: #333;
@@ -6528,7 +6528,7 @@ h2.tribe-events-page-title:after {
 }
 .tribe-events-nav-next a:hover,
 .tribe-events-nav-previous a:hover{
-    color: #d65679;
+    color: #46babd;
 }
 .tribe-events-nav-next a span,
 .tribe-events-nav-previous a span{
@@ -6602,7 +6602,7 @@ h2.tribe-events-page-title:after {
     font-size: 13px;
     padding: 0;
     margin: 13px 0 0;
-    color: #d65679;
+    color: #46babd;
     font-weight: 400;
     letter-spacing: 0.4px;
     text-transform: uppercase;
@@ -6696,7 +6696,7 @@ h2.tribe-events-page-title:after {
     text-transform: uppercase;
 }
 .single-tribe_events #tribe-events-content .updated{
-    color: #d65679;
+    color: #46babd;
     display: inline-block;
     font-size: 10px;
     font-weight: 400;
@@ -6707,7 +6707,7 @@ h2.tribe-events-page-title:after {
     margin: 0;
 }
 .single-tribe_events #tribe-events-content .updated span{
-    color: #d65679;
+    color: #46babd;
     display: inline-block;
     font-size: 10px;
     font-weight: 400;
@@ -6734,7 +6734,7 @@ h2.tribe-events-page-title:after {
     margin-bottom: 0;
 }
 .single-tribe_events .tribe-events-event-meta{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     border: 0;
     margin: 30px 0;
 }
@@ -6937,7 +6937,7 @@ h2.tribe-events-page-title:after {
     position: relative;
     text-align: center;
     letter-spacing: 0.4px;
-    color: #d65679;
+    color: #46babd;
     text-transform: uppercase;
     display: block;
     text-decoration: none !important;
@@ -6964,7 +6964,7 @@ h2.tribe-events-page-title:after {
 .tztribe_nav .wp-pagenavi a:hover,
 .tztribe_nav .wp-pagenavi span.current {
     color: #fff;
-    background: #d65679;
+    background: #46babd;
     font-weight: 400;
     text-decoration: none;
 }
@@ -7080,7 +7080,7 @@ h2.tribe-events-page-title:after {
 .widget_nav_menu ul li a:hover{
     text-decoration: none;
     color: #fff;
-    background: #d65679;
+    background: #46babd;
 }
 .tribe-events-list-widget ol li:first-child{
     border-top: 0;
@@ -7135,7 +7135,7 @@ h2.tribe-events-page-title:after {
     position: relative;
     text-align: left;
     letter-spacing: 2px;
-    color: #d65679;
+    color: #46babd;
     text-transform: uppercase;
     font-weight: 400;
 }
@@ -7158,7 +7158,7 @@ h2.tribe-events-page-title:after {
     overflow: hidden;
 }
 .blog-post.sticky .everline_sticky{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     color: #fff;
     display: block;
     font-size: 14px;
@@ -7274,7 +7274,7 @@ h2.tribe-events-page-title:after {
     color: #fff;
 }
 .tz_slider_prev:hover{
-    background: #d65679;
+    background: #46babd;
 }
 
 .tz_slider_next{
@@ -7304,7 +7304,7 @@ h2.tribe-events-page-title:after {
     color: #fff;
 }
 .tz_slider_next:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .iframe-full-audio{
     border: 0 none;
@@ -7344,14 +7344,14 @@ h2.tribe-events-page-title:after {
 }
 .blog_meta span:hover,
 .blog_meta a:hover{
-    color: #d65679;
+    color: #46babd;
     cursor: pointer;
 }
 .tztags_link a{
     padding-right: 3px;
 }
 .tzquote{
-    background: #d65679;
+    background: #46babd;
     padding: 45px 0 38px;
     text-align: center;
 }
@@ -7414,7 +7414,7 @@ h2.tribe-events-page-title:after {
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.4px;
-    color: #d65679;
+    color: #46babd;
     text-decoration: none !important;
 }
 
@@ -7751,7 +7751,7 @@ h2.tribe-events-page-title:after {
 .tzpagination2 a:hover,
 .tzpagination2 span.current {
     color: #fff;
-    background: #d65679;
+    background: #46babd;
     font-weight: 400;
     text-decoration: none;
 }
@@ -7780,7 +7780,7 @@ h2.tribe-events-page-title:after {
 .tzpagenavi-blog .wp-pagenavi a:hover,
 .tzpagenavi-blog .wp-pagenavi span.current {
     color: #fff;
-    background: #d65679;
+    background: #46babd;
     font-weight: 400;
     text-decoration: none;
 }
@@ -7886,7 +7886,7 @@ blockquote:before{
     top: 16px;
     left: 23px;
     font-size: 24px;
-    color: #d65679;
+    color: #46babd;
     font-family: 'FontAwesome';
     content: "\f10e";
 }
@@ -7939,7 +7939,7 @@ blockquote:before{
     letter-spacing: 0.4px;
 }
 .single-share a:hover{
-    color: #d65679;
+    color: #46babd;
 }
 .single-author{
     background: none repeat scroll 0 0 #fafafa;
@@ -8073,7 +8073,7 @@ blockquote:before{
     float: left;
 }
 .comment-content .comment-metadata a{
-    color: #d65679;
+    color: #46babd;
     font-size: 13px;
     font-weight: 400;
     line-height: 20.8px;
@@ -8253,7 +8253,7 @@ blockquote:before{
     position: relative;
 }
 .tztitle:after{
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -8362,7 +8362,7 @@ blockquote:before{
     position: absolute;
     left: 0;
     top: 0;
-    background: #d65679;
+    background: #46babd;
     content: '';
     z-index: 1;
     transition: all 0.4s linear 0.1s;
@@ -8442,7 +8442,7 @@ blockquote:before{
     position: absolute;
     left: 0;
     top: 0;
-    background: #d65679;
+    background: #46babd;
     content: '';
     z-index: 1;
     transition: all 0.3s linear 0.1s;
@@ -8659,10 +8659,10 @@ blockquote:before{
     text-decoration: none;
 }
 .masonry-left h3 a:hover{
-    color: #d65679;
+    color: #46babd;
 }
 .masonry-left i:hover{
-    color: #d65679;
+    color: #46babd;
 }
 .masonry-right{
     width: 50%;
@@ -8677,7 +8677,7 @@ blockquote:before{
     padding: 0;
     margin: 0;
     font-size: 12px;
-    color: #d65679;
+    color: #46babd;
     line-height: 24px;
     letter-spacing: 0.4px;
     text-decoration: none;
@@ -8862,7 +8862,7 @@ blockquote:before{
 }
 .tzPortfolio_meta span,
 .tzPortfolio_meta a{
-    color: #d65679;
+    color: #46babd;
     display: inline-block;
     font-size: 12px;
     letter-spacing: 0.4px;
@@ -8916,7 +8916,7 @@ blockquote:before{
 }
 .tzmeta-single span,
 .tzmeta-single span a{
-    color: #d65679;
+    color: #46babd;
     display: inline-block;
     font-size: 12px;
     letter-spacing: 0.4px;
@@ -8985,7 +8985,7 @@ blockquote:before{
     line-height: 38px;
 }
 .meta-social a i:hover{
-    background: #d65679;
+    background: #46babd;
 }
 .portfolio-style .tzblog-slider{
     max-height: 1200px;
@@ -9009,7 +9009,7 @@ blockquote:before{
     text-align: center;
 }
 .team_title:after {
-    background: none repeat scroll 0 0 #d65679;
+    background: none repeat scroll 0 0 #46babd;
     bottom: 0;
     content: "";
     height: 2px;
@@ -9073,7 +9073,7 @@ blockquote:before{
     opacity: 0;
 }
 .team_readmore i{
-    color: #d65679;
+    color: #46babd;
     line-height: 100px;
     font-size: 28px;
     transform: scale(1.5) rotate(145deg);
@@ -9166,7 +9166,7 @@ body .wpb_gmaps_widget .wpb_map_wraper iframe {
     height: 75px;
     font-size: 25px;
     line-height: 75px;
-    background: #d65679;
+    background: #46babd;
     color: #fff;
     border-radius: 50%;
     -moz-border-radius: 50%;
@@ -9192,7 +9192,7 @@ body .wpb_gmaps_widget .wpb_map_wraper iframe {
 .wpcf7-submit{
     text-transform: uppercase;
     font-size: 11px;
-    background: #d65679;
+    background: #46babd;
     padding: 10px 20px;
     border: 0;
     color: #fff;
@@ -9321,7 +9321,7 @@ div.wpcf7-response-output {
     padding: 40px 0 0 0;
 }
 .comingsoo_ds a{
-    color: #d65679;
+    color: #46babd;
     text-decoration: -moz-anchor-decoration;
 }
 
@@ -9348,7 +9348,7 @@ div.wpcf7-response-output {
     left: 0;
 }
 .live_title{
-    background: #d65679;
+    background: #46babd;
     color: #fff;
     height: 40px;
     border-top-right-radius: 5px;
@@ -9437,7 +9437,7 @@ div.wpcf7-response-output {
     display: none;
 }
 .livebox li{
-    border: 1px solid #d65679;
+    border: 1px solid #46babd;
 }
 .live-content ul.livebox{
     padding: 5px;
@@ -9450,7 +9450,7 @@ div.wpcf7-response-output {
 }
 .live-content ul.livebox li:hover,
 .live-content ul.livebox li.lactive{
-    background: #d65679;
+    background: #46babd;
     color: #fff;
 }
 .live-content ul.livebox li:hover span{
@@ -9466,7 +9466,7 @@ div.wpcf7-response-output {
     top: 25%;
 }
 .iactive2:after{
-    color: #d65679;
+    color: #46babd;
     content: "\f00c";
     font-family: "FontAwesome";
     font-size: 13px;
@@ -9610,7 +9610,7 @@ div.wpcf7-response-output {
     width: 100%;
 }
 .tz-footer{
-    background: #d65679;
+    background: #46babd;
     padding: 50px 0;
 }
 .tz-footer .module-title{
@@ -11360,7 +11360,7 @@ body.theme-rtl header ul.nav-collapse .themeple_custom_menu_mega_menu ul li ul l
 }
 .theme-rtl .jp-playlist ul li.jp-playlist-current:before,
 .theme-rtl .jp-playlist ul li:hover:before{
-    border-left: 2px solid #d65679;
+    border-left: 2px solid #46babd;
     border-right: 0;
 }
 .theme-rtl .jp-playlist ul li{
@@ -11663,7 +11663,7 @@ body.theme-rtl header ul.nav-collapse .themeple_custom_menu_mega_menu ul li ul l
         left: auto;
         top: auto;
         padding: 15px 0 20px;
-        background: #d65679 !important;
+        background: #46babd !important;
     }
     body#bd .tz-header1 .tz_icon_menu i{
         line-height: 14px;
