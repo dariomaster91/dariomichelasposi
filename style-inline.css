@@ -320,7 +320,7 @@ body#bd {background: #f5f5f5;}
 }
 .vc_custom_1423135867032,
 .vc_custom_1423213578883{
-    background-image: url("http://placehold.it/1920x926") !important;
+    background-image: url("https://via.placeholder.com/1920x926") !important;
 }
 .vc_custom_1423135867032 .overlay_parallax{
     background-color:rgba(0,0,0,0.3);
@@ -335,17 +335,17 @@ body#bd {background: #f5f5f5;}
 }
 
 .bg-video.bg-video-home-1{
-    background: url("http://placehold.it/1920x470") no-repeat  center center / cover  transparent !important;
+    background: url("https://via.placeholder.com/1920x470") no-repeat  center center / cover  transparent !important;
 }
 .bg-video.bg-video-home-2,
 .vc_custom_1423536877498{
-    background: url("http://placehold.it/1920x925") no-repeat  center center / cover  transparent !important;
+    background: url("https://via.placeholder.com/1920x925") no-repeat  center center / cover  transparent !important;
 }
 .bg-video.bg-video-home-4{
-    background: url("http://placehold.it/1920x925") no-repeat  center center / cover  transparent !important;
+    background: url("https://via.placeholder.com/1920x925") no-repeat  center center / cover  transparent !important;
 }
 .bg-video.bg-video-home-rtl{
-    background: url("http://placehold.it/1920x470") no-repeat  center center / cover  transparent !important;
+    background: url("https://via.placeholder.com/1920x470") no-repeat  center center / cover  transparent !important;
 }
 .vc_custom_1423210762399 {
     background-color: #ffffff !important;
@@ -368,7 +368,7 @@ body#bd {background: #f5f5f5;}
 }
 /*-------------- Home 5 ----------------*/
 .vc_custom_1423446327759{
-    background-image: url(http://placehold.it/1170x540) !important;
+    background-image: url(https://via.placeholder.com/1170x540) !important;
 }
 .vc_custom_1423446722085{
     padding-top: 95px !important;
@@ -397,7 +397,7 @@ body#bd {background: #f5f5f5;}
 
 /* ---------------- Blog ------------------*/
 .bg-video.bg-video1{
-    background: url("http://placehold.it/1170x400") no-repeat  center center / cover  transparent !important;
+    background: url("https://via.placeholder.com/1170x400") no-repeat  center center / cover  transparent !important;
 }
 /*--------------- About ---------------*/
 .vc_custom_1423539216238 {
@@ -461,7 +461,7 @@ body#bd {background: #f5f5f5;}
 }
 /*------------- Coming soon ------------*/
 .tzcomingsoon{
-    background-image: url(http://placehold.it/1920x1045);
+    background-image: url(https://via.placeholder.com/1920x1045);
 }
 /*------------- cart ------------------*/
 .create-account {
@@ -475,7 +475,7 @@ body#bd {background: #f5f5f5;}
 }
 /*------------ 404 ----------------------*/
 .content-404{
-    background-image: url('http://placehold.it/1920x1045')
+    background-image: url('https://via.placeholder.com/1920x1045')
 }
 /*------------- check out ----------------*/
 .woocommerce form .login,
@@ -498,10 +498,10 @@ body#bd {background: #f5f5f5;}
 /*------------- home 3 -----------------*/
 
 .tzcountdown3 .tzcount-left{
-    background-image: url(http://placehold.it/735x400)
+    background-image: url(https://via.placeholder.com/735x400)
 }
 .tzimage-content{
-    background-image: url("http://placehold.it/670x325");
+    background-image: url("https://via.placeholder.com/670x325");
 }
 .form7submit .ajax-loader{
     visibility: hidden;

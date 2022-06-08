@@ -1,11 +1,10 @@
 <?php
-
 error_reporting(E_ALL);
 
 // Genera un boundary
 $mail_boundary = "=_NextPart_" . md5(uniqid(time()));
 
-$to = "ediltecnicaparrino@alice.it";
+$to = "dariomichelasposi@gmail.com";
 $subject = "Nuova email da dariomichelasposi.it";
 $sender = "postmaster@dariomichelasposi.it";
 
@@ -47,11 +46,9 @@ ini_set("sendmail_from", $sender);
 
 // Invia il messaggio, il quinto parametro "-f$sender" imposta il Return-Path su hosting Linux
 if (mail($to, $subject, $msg, $headers, "-f$sender")) {
-    header("location: ./mail-success.html");
-} else {
+       header("location: ./mail-success.html");
+} else { 
     echo "<br><br>Recapito e-Mail fallito!";
 }
 
 ?>
-
-
